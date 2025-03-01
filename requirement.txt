@@ -1,4 +1,5 @@
 streamlit
-speechrecognition
+speechrecognition --no-cache-dir
 pyttsx3
 pywhatkit
+
