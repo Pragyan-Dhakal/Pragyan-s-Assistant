@@ -1,4 +1,4 @@
 streamlit
-SpeechRecognition
+speechrecognition
 pyttsx3
 pywhatkit
